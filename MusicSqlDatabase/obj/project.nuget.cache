@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "Md509HhQViTVcoHGgqSyZzpmmZ8AAaXfBUW7XTwC1E5Pkjq2Mhyko8qITH07UBeX2GiWnNifsZaX3W7Bjfs7/g==",
+  "success": true,
+  "projectFilePath": "D:\\programiranje\\projects\\MatejaDjokic\\music-sql-database\\MusicSqlDatabase\\MusicSqlDatabase.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\djokic\\.nuget\\packages\\system.configuration.configurationmanager\\9.0.0\\system.configuration.configurationmanager.9.0.0.nupkg.sha512",
+    "C:\\Users\\djokic\\.nuget\\packages\\system.data.oledb\\9.0.0\\system.data.oledb.9.0.0.nupkg.sha512",
+    "C:\\Users\\djokic\\.nuget\\packages\\system.diagnostics.eventlog\\9.0.0\\system.diagnostics.eventlog.9.0.0.nupkg.sha512",
+    "C:\\Users\\djokic\\.nuget\\packages\\system.diagnostics.performancecounter\\9.0.0\\system.diagnostics.performancecounter.9.0.0.nupkg.sha512",
+    "C:\\Users\\djokic\\.nuget\\packages\\system.security.cryptography.protecteddata\\9.0.0\\system.security.cryptography.protecteddata.9.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
